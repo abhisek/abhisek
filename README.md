@@ -27,7 +27,7 @@ I have been a security researcher in a past life with some CVEs credited to me
 
 Lately, I have been working on application security, cloud and container security. I spoke at conferences and wrote about these topics and love to have people read, commet and critic :)
 
-* [Kubernetes for Penetration Testers](https://speakerdeck.com/abhisek/kubernetes-101-for-penetration-testers-null-mumbai), null Mumbai
+* [Kubernetes for Penetration Testers](https://speakerdeck.com/abhisek/kubernetes-101-for-penetration-testers-null-mumbai)
 * [Kubernetes from an Attacker's Perspective](https://twitter.com/abh1sek/status/1283082195377111040)
 * [Security Engineering - How to secure systems in real-world](https://blog.appsecco.com/thoughts-on-security-engineering-how-to-secure-systems-in-real-world-e676c64ff708)
 * [Designing Distributed Systems for Security Workflow Automation](https://blog.appsecco.com/designing-distributed-systems-for-security-workflow-learning-from-our-nullcon-workshop-93c2445667f4)
