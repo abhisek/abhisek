@@ -25,7 +25,7 @@ I have been a security researcher in a past life with some CVEs credited to me
 * CVE-2014-4117
 * CVE-2014-6113
 
-Lately, I have been working on application security, cloud and container security. I spoke at conferences and wrote about these topics and love to have people read, commet and critic 🤓
+Lately, I have been working on application 🎡 security, cloud ☁️ and container 🥊 security. I spoke at conferences and wrote about these topics and love to have people read, commet and critic 🤓
 
 * [Kubernetes for Penetration Testers](https://speakerdeck.com/abhisek/kubernetes-101-for-penetration-testers-null-mumbai)
 * [Kubernetes from an Attacker's Perspective](https://twitter.com/abh1sek/status/1283082195377111040)
