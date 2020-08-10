@@ -22,7 +22,6 @@ I have been a security researcher in a past life with some CVEs credited to me
 * CVE-2015-1650
 * CVE-2015-1682
 * CVE-2015-2376
-* CVE-2015-2555
 * [...]
 
 Lately, I have been working on application security 🎡, cloud ☁️ and container 🥊 security. I spoke at conferences and wrote about these topics. I love to have people read, comment and critic them 🤓
