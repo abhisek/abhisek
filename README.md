@@ -8,12 +8,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Kubernetes security
 - 🌱 I’m currently learning how to secure stuff at scale
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about #infosec
 - 📫 How to reach me: [@abh1sek](https://twitter.com/abh1sek)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have closed my coffee shop
+
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 
 I have been a security researcher in a past life with some CVEs credited to me
 
