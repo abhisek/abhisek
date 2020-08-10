@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Kubernetes security
 - 🌱 I’m currently learning how to secure stuff at scale
-- 💬 Ask me about #infosec
+- 💬 Ask me about infosec
 - 📫 How to reach me: [@abh1sek](https://twitter.com/abh1sek)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have closed my coffee shop
