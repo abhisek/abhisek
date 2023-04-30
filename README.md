@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have closed my coffee shop long back
 
+I am experienced in building
+
+- Multi-product IAM platform for B2B SaaS in fintech space
+- Establishing and implementing devsecops culture within platform engineering
+- Microservice framework development and maintenance
+- Kubernetes native security platform development
+
+My primary techstack currently is [Golang](https://go.dev/). I am also well versed with [Ruby on Rails](https://rubyonrails.org/) and prefer using it for building management applications that are heavy on relational data.
+
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
