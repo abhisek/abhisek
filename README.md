@@ -6,12 +6,13 @@
 Here are some ideas to get you started:
 -->
 
+- 🧀 I'm the lead developer and maintainer for (vet)[https://github.com/safedep/vet]
 - 🔭 I’m working on Platform & Security Engineering
 - 🌱 I’m currently ~learning how to~ secure stuff at scale
-- 💬 Ask me about infosec
+- 💬 Ask me about infosec, devops, platform engineering, AuthN / AuthZ
 - 📫 How to reach me: [@abh1sek](https://twitter.com/abh1sek)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have closed my coffee shop
+- ⚡ Fun fact: I have closed my coffee shop long back
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -24,7 +25,7 @@ I have been a security researcher in a past life with some CVEs credited to me
 * CVE-2015-2376
 * [...]
 
-Lately, I have been working on application security 🎡, cloud ☁️ and container 🥊 security. I spoke at conferences and wrote about these topics. I love to have people read, comment and critic them 🤓
+I have been working on microservices, platform engineering, devops, application security 🎡, cloud ☁️ and container 🥊 security. I spoke at conferences and wrote about these topics. I love to have people read, comment and critic them 🤓
 
 * [Kubernetes for Penetration Testers](https://speakerdeck.com/abhisek/kubernetes-101-for-penetration-testers-null-mumbai)
 * [Kubernetes from an Attacker's Perspective](https://twitter.com/abh1sek/status/1283082195377111040)
