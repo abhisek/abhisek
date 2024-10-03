@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 
+- 🚀 Building [safedep.io](https://safedep.io)
 - 🧀 I'm the lead developer and maintainer for [vet](https://github.com/safedep/vet)
 - 🔭 I’m working on Platform & Security Engineering
 - 🌱 I’m currently ~learning how to~ secure stuff at scale
