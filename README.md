@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🚀 Building [safedep.io](https://safedep.io)
-- 🔭 I’m working on Platform & Security Engineering
-- 🌱 I’m currently ~learning how to~ secure stuff at scale
-- 💬 Ask me about infosec, devops, platform engineering, AuthN / AuthZ
-- 📫 How to reach me: [@abh1sek](https://twitter.com/abh1sek)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have closed my coffee shop long back
+- Building [safedep.io](https://safedep.io)
+- I’m working on Platform & Security Engineering
+- I’m currently ~learning how to~ secure stuff at scale
+- Ask me about infosec, devops, platform engineering, AuthN / AuthZ
+- How to reach me: [@abh1sek](https://twitter.com/abh1sek)
+- Pronouns: He/Him
+- Fun fact: I have closed my coffee shop long back
 
 I am experienced in building
 
@@ -22,9 +22,6 @@ I am experienced in building
 - Kubernetes native security platform development
 
 My primary techstack currently is [Golang](https://go.dev/). I am also well versed with [Ruby on Rails](https://rubyonrails.org/) and prefer using it for building management applications that are heavy on relational data.
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 
 I have been a security researcher in a past life with some CVEs credited to me
 
