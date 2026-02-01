@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 Building [safedep.io](https://safedep.io)
-- 🧀 I'm the lead developer and maintainer for [vet](https://github.com/safedep/vet)
 - 🔭 I’m working on Platform & Security Engineering
 - 🌱 I’m currently ~learning how to~ secure stuff at scale
 - 💬 Ask me about infosec, devops, platform engineering, AuthN / AuthZ
@@ -34,6 +33,15 @@ I have been a security researcher in a past life with some CVEs credited to me
 * CVE-2015-1682
 * CVE-2015-2376
 * [...]
+
+My open source projects
+
+- [safedep/vet](https://github.com/safedep/vet) - Policy driven vetting of open source packages with malicious package protection
+- [safedep/pmg](https://github.com/safedep/pmg) - Security wrapper for npm, pnpm, pip and more package managers with sandboxing
+- [safedep/gryph](https://github.com/safedep/gryph) - AI coding agent audit trail tool
+- [safedep/xbom](https://github.com/safedep/xbom) - CycloneDX xBOM through static code analysis
+- [safedep/code](https://github.com/safedep/code) - Static code analysis framework in Go
+- [abhisek/wireplay](http://github.com/abhisek/wireplay) - Network package replay and fuzzing tool
 
 I have been working on microservices, platform engineering, devops, application security 🎡, cloud ☁️ and container 🥊 security. I spoke at conferences and wrote about these topics. I love to have people read, comment and critic them 🤓
 
