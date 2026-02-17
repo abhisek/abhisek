@@ -38,6 +38,7 @@ My open source projects
 - [safedep/gryph](https://github.com/safedep/gryph) - AI coding agent audit trail tool
 - [safedep/xbom](https://github.com/safedep/xbom) - CycloneDX xBOM through static code analysis
 - [safedep/code](https://github.com/safedep/code) - Static code analysis framework in Go
+- [abhisek/mathiz](https://github.com/abhisek/mathiz) - AI powered math playground for kids
 - [abhisek/wireplay](http://github.com/abhisek/wireplay) - Network package replay and fuzzing tool
 
 I have been working on microservices, platform engineering, devops, application security 🎡, cloud ☁️ and container 🥊 security. I spoke at conferences and wrote about these topics. I love to have people read, comment and critic them 🤓
